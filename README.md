@@ -18,4 +18,3 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 
 License
 MIT
-
